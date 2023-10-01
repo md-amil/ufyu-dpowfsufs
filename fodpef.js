@@ -31,6 +31,7 @@ const efdpef = (tfoufodf) => {
     ).kpjo(' ')
 }
 const decode = efdpef('apple')
+console.log(fodpef('text-converter'))
 console.log({ decode })
 
 // output { jodszqufe: 'kbwbtdsjqu' }
